@@ -1,0 +1,7 @@
+dependencies {
+    // ... other dependencies ...
+
+    implementation 'com.android.volley:volley:1.2.1' // Or the latest stable version
+
+    // ... other dependencies ...
+}
